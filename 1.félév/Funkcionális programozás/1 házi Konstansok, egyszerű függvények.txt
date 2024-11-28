@@ -1,0 +1,30 @@
+1. házi: Konstansok, egyszerű függvények
+Kategória:	Házi feladatok
+Elérhető:	2022. 09. 14. 0:00
+Pótolható határidő:
+Végső határidő:	2022. 09. 20. 14:00
+Maximum beküldési próbálkozások száma: Korlátlan
+Kiírta:	Bense Viktor
+
+Leírás:
+Egyszerű kifejezések
+Minden definiálandó függvényhez adjuk meg a hozzátartozó típusát is az olvashatóság miatt! A feladatok után a zárójelben lévő név azt jelzi, milyen néven szükséges definiálni az adott függvényt, kifejezést. A forrásfáljban ügyeljetek arra, hogy minden kifejezés rendelkezzen helyes típus deklarációval!
+
+0. Modul
+A házi feladat fájl moduljának a neve legyen Hazi1!
+
+1. Kifejezések
+Adjunk meg három különböző Int típusú kifejezést! (intExpr1, intExpr2, intExpr3)
+
+Adjunk meg három különböző Char típusú kifejezést! (charExpr1, charExpr2, charExpr3)
+
+Adjunk meg három különböző Bool típusú kifejezést! (boolExpr1, boolExpr2, boolExpr3)
+(Ugyan órán nem mutattam, de hasonlóan más programozási nyelvekhez, vannak Bool típusú értékeken operáló függvények, mint pl. (&&), (||), (==), not, (/=) és még sok más. Működésük reményeim szerint értelemszerű tekintve, hogy mindenki látott korábban valamilyen imperatív programozási nyelvet.)
+
+2. +1, *2
+a.) Definiáljuk az inc nevű függvényt, amely egy egész számhoz hozzáad 1-et.
+
+b.) Definiáljuk a double nevű függvényt, amely egy egész számot megszoroz 2-vel.
+
+3. Hét
+Az előbb definiált inc, double függvényt és a 0-ás konstans értéket (és maximum csak ezeket) használva adjunk meg három különböző kifejezést, amely a 7-et állítja elő! (seven1, seven2, seven3)
