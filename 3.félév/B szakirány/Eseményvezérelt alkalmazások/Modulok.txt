@@ -1,0 +1,80 @@
+Előadások
+01. A .NET platform és a C# programozási nyelv
+elte_eva_ea01_bevezetes.pdf
+elte_eva_ea01_csharp.pdf
+
+02. Windows Forms alapismeretek, eseményvezérlés
+elte_eva_ea02_winforms_static.pdf
+Calculator_01.zip
+ExamGenerator_01.zip
+
+03. Windows Forms alkalmazások architektúrája
+elte_eva_ea03_winforms_mv.pdf
+Videó	https://ikelte.sharepoint.com/sites/EVA2024/_layouts/15/stream.aspx?id=%2Fsites%2FEVA2024%2FClass%20Materials%2Felte%5Feva%5Fea03%5Fwinforms%5Fmv%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee095a3de%2D1d20%2D4c98%2D9d91%2D41cb4465b059
+Calculator_02.zip
+Calculator_03.zip
+
+04. Windows Forms dinamikus felhasználói felület, elemi grafika
+elte_eva_ea04_winforms_dynamic.pdf
+ColorGrid_01.zip
+TicTacToeGame_01.zip
+MotionPicture.zip
+VectorDrawing_01.zip
+VectorDrawing_02.zip
+TicTacToeGame_02.zip
+
+05. Windows Forms alkalmazások tesztelése
+elte_eva_ea05_winforms_architecture_testing.pdf
+TicTacToeGame_03.zip
+TicTacToeGame_04.zip
+TicTacToeGame_05.zip
+TicTacToeGame_06.zip
+TicTacToeGame_07.zip
+TicTacToeGame_08.zip
+
+06. Többszálú programozás C#-ban
+elte_eva_ea06_winforms_multithread.pdf
+FibonacciNumberGenerator_01.zip
+FibonacciNumberGenerator_02.zip
+FibonacciNumberGenerator_03.zip
+TicTacToeGame_09.zip
+ExamGenerator_02.zip
+
+07. WPF alapismeretek
+elte_eva_ea07_wpf_basics.pdf
+SimpleWindow.zip
+Calculator_04.zip
+SmileyTransformations.zip
+TicTacToeGame_10.zip
+
+08. WPF alkalmazások architektúrája
+elte_eva_ea08_wpf_architecture.pdf
+StudentsList_01.zip
+StudentsList_02.zip
+Calculator_05.zip
+Calculator_06.zip
+
+09. Összetett WPF alkalmazások
+elte_eva_ea09_wpf_complex_resources.pdf
+Videó 1: https://ikelte.sharepoint.com/sites/EVA2024/_layouts/15/stream.aspx?id=%2Fsites%2FEVA2024%2FMegosztott%20dokumentumok%2FGeneral%2Felte%5Feva%5Fea09%5Fwpf%5Fadvanced%5Fenhanced%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edab37942%2Df117%2D428c%2D88bb%2D4e7f3f4298c0
+Videó 2: https://ikelte.sharepoint.com/sites/EVA2024/_layouts/15/stream.aspx?id=%2Fsites%2FEVA2024%2FMegosztott%20dokumentumok%2FGeneral%2Felte%5Feva%5Fea09%5Fwpf%5Fresources%5Fenhanced%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2e8eb50c%2D5d4e%2D44a3%2D97b6%2Dfa2eaeb5d878
+ExamGenerator_03.zip
+TicTacToeGame_11.zip
+ColorGrid_02.zip
+ColorGrid_03.zip
+ColorGrid_04.zip
+TicTacToeGame_12.zip
+
+10. Avalonia UI alapismeretek
+elte_eva_ea10_avaloniaui.pdf
+Calculator_12.zip
+Calculator_13.zip
+Calculator_14.zip
+
+11. Összetett Avalonia UI alkalmazások
+elte_eva_ea11_avaloniaui_complex.pdf
+ExamGenerator_06.zip
+ExamGenerator_07.zip
+Avalonia.MusicStore.zip
+
+12. .NET alkalmazások lokalizációja

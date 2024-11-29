@@ -1,0 +1,24 @@
+Tárgykód:
+Kredit-érték:
+
+Előfeltétel:
+Ráépülő tárgyak:
+
+Tematika
+A Diszkrét matematika 2 tantárgy a következő fejezetekből épül fel
+	Számelmélet
+	Polinomok
+	Forráskódolás
+	Hibajavító kódolás
+A tárgyhoz 2 előadás és 2 gyakorlat tartozik. A kontaktórákon  kívül egy  átlagos hallgatónak nagyságrendileg heti 60-90 perc egyéni felkészülési idő szükséges.  Az előadáshoz tartozó konzultáció időpontja később kerül publikálásra.  
+
+
+A tárgyhoz kapcsolódó jegyzet
+
+Járai Antal (szerk.): Bevezetés a Matematikába  (Informatikai Alkalmazásokkal)
+
+A jegyzeten kívül a Canvas oldalon az előadás diái is elérhetőek lesznek.
+
+További irodalom
+Freud Róbert, Gyarmaty Edit: Számelmélet
+Vajda István Györfi László Győri Sándor: Információ és kódelmélet

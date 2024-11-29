@@ -1,0 +1,41 @@
+1. előadás összefoglalója
+Számelmélet 1: oszthatóság, maradékos osztás, legnagyobb közös osztó, euklidészi algoritmus, lineáris diofanktikus egyenletek és megoldásuk a bővített euklidészi algoritmussal.
+
+2. előadás összefoglalója + lineáris_kongruencia.pdf
+Számelmélet 2: Prímszámok fogalma, számelmélet alaptétele, prímek száma. Kongruencia fogalma, kongruencia ekvivalencia reláció ill. kompatibilis az összeadással és szorzással. Kongruenciák alkalmazása: ISBN. Egyszerűsítés kongruenciák esetén. Lineáris kongruenciák megoldhatósága, megoldása és megoldásainak száma.
+
+3. előadás összefoglalója
+Számelmélet 3: Szimultán kongruenciák fogalma. Visszavezetése egy együtthatós és relatív prím modulusos szimultán kongruenciára. Kínai maradéktétel szimultán kongruencia megoldhatóságáról. Kínai maradéktétel bizonyítása ill. szimultán kongruenciarendszer megoldása.  Euler-féle ϕ függvény fogalma és kiszámolása a prímtényezős felbontásból (biz. nélkül).  Hatványok maradékai, példák. Euler-Fermat tétel kimondása (biz. következő alkalommal).
+
+4. előadás összefoglalója
+Számelmélet 3:  Euler-Fermat tétel és bizonyítása. A tétel alkalmazása magasabb hatványok kiszámítására ill. bizonyos lineáris kongruenciák megoldására. Gyors hatványozás. Generátor fogalma, diszkrét logaritmus és tulajdonságai. Számelméleti alkalmazások: titkosítások, Ceasar titkosító, One-time pad.
+
+5. előadás összefoglalója
+Számelmélet 5: Számelméleti alkalmazások (folyt.): Diffie-Hellman kulcscsere protokoll, diszkrét logaritmus probléma, RSA titkosítás és a faktorizáció probléma.
+Polinomok 1: Polinomok fogalma (együttható, fok, főegyüttható). Polinom és polinomfüggvény, polinomok gyökei. Polinomok maradékos osztása. 
+
+6. előadás összefoglalója + Polinomok legnagyobb közös osztója SAGEworksheet.pdf
+Polinomok 2: Polinomok foka és gyökök száma. Horner elrendezés és kapcsolata a maradékos osztással. Polinomok legnagyobb közös osztója, annak kiszámolása az euklideszi algoritmussal.
+
+7. előadás összefoglalója
+Polinomok 2: Bővített euklideszi algoritmus polinomokra. Többszörös gyök fogalma. Formális derivált. Polinom foka és gyökök közötti összefüggés még egyszer. 
+
+8. előadás összefoglalója
+Polinomok 3: Irreducibilis polinomok, számelmélet alaptétele polinomokra. Kongruencia fogalma és tulajdonságai polinomok körében.
+
+9. előadás összefoglalója
+Polinomok 4: Testek fogalma, véges testek. Lagrange interpoláció. Kriptográfiai alkalmazás: titokmegosztás.
+Kódelmélet 1: Kódelmélet fogalma, forrás-, gazdaságos- és csatornakódolás fogalma. Betűnkénti kódolás, felbontható kódolás.
+
+10. előadás összefoglalója
+Kódelmélet 2: Szavak prefixe, infixe, szuffixe. Prefix kódolás, prefix kódok felbonthatóak. Kódfa, prefix kódok kódfáinak tulajdonsága. Egyenletes és vesszős kódok, ezek prefixek. Példák kódokra: ASCII, UTF-8
+Csatornakódolás. Példák hibajelző, hibajavító kódokra: ismétléses és paritásbites kód. Hamming-távolság és tulajdonságai. Kódtávolság. Hibajelző és hibajavító tulajdonság a kódtávolság függvényében.
+
+11. előadás összefoglalója
+Kódelmélet 3: Singleton korlát, példák. Lineáris kódok, Singleton korlát lineáris kódokra. Hamming súly, kód súlya és kapcsolata a kódtávolsággal. Hamming korlát, perfekt kódok. Generátor és  ellenőrző mátrix.
+
+12. előadás összefoglalója
+Kódelmélet 4: Ellenőrző mátrix karakterizációja. Szisztematikus kódolás ellenőrzőmátrixa. Szindrómák fogalma és szindrómadekódolás. Reed-Solomon kódok. Reed-Solomon kódok generátormátrixa, minimális távolsága. 
+
+13. előadás összefoglalója
+Kódelmélet 5: Ciklikus kódok, reprezentálásuk polinomokkal. Lineáris ciklikus kódok generátorpolinomja, annak tulajdonságai. Lineáris ciklikus kódok generátormátrixa ls szisztematikus kódolása. Ellenőrzőpolinom.
