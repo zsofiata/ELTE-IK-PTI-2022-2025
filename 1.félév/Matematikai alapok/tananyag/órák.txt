@@ -1,0 +1,243 @@
+1. Algebrai és gyökös kifejezések I.(2022. IX. 12-16-i hét 1. alkalom) (h1a1)
+Ez a téma terv szerint a 2022. szept. 12-16-i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+A Matalapok jegyzetben a 9-20. oldalon.
+Megoldandó az "Órai feladatok" részből: 1, 3b, 4b, 6, 9, 12c, 13, 19b, 19c, 20a, Horner-plusz.
+Ezek megoldása elérhető: fej1mo.pdf
+
+2. Másodfokú ... (2022. IX. 12-16-i hét 2. alkalom) (h1a2)
+Másodfokú egyenletek, egyenlőtlenségek
+Ez a téma terv szerint a 2022. szept. 12-16-i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 21-27. oldalon.
+Megoldandó az órai feladatok részből: 1, 2, 3b, 3c, 4c, 9.
+
+Ezek megoldása elérhető: fej2mo.pdf
+
+3. Algebrai és gyökös ... (2022. IX. 19 -23-i hét 1. alkalom) (h2a1)
+Algebrai és gyökös kifejezések II.
+Ez a téma terv szerint a 2022. szept. 19 - 23 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 28-36. oldalon.
+
+Megoldandó az "Órai feladatok" részből: 1b., 1c., 1e,, 2a., 2b., 2c., 3b., 3e., 3f., 3g., 6a., 6k., 6n.
+
+Ezek megoldása elérhető: fej3-1mo.pdf
+
+
+4. Exponenciális, logaritmusos ... (2022. IX. 19 -23-i hét 2. alkalom) (h2a2)
+Exponenciális, logaritmusos kifejezések, egyenletek, egyenlőtlenségek
+Ez a téma terv szerint a 2022. szept. 19 - 23-i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 37 - 43. oldalon.
+
+Megoldandó az "Órai feladatok" részből: 2., 3c., 3f., 8,, 15b., 15c., 15d., 15e., 15g., 15j.
+
+Ezek megoldása elérhető: fej4-1mo.pdf
+
+5. Trigonometrikus ... (2022. IX. 26 - 30-i hét 1. alkalom) (h3a1)
+Trigonometrikus azonosságok, egyenletek, egyenlőtlenségek
+Ez a téma terv szerint a 2022. szept. 26 - 30-i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 44 - 51. oldalon.
+
+Megoldandó az "Órai feladatok" részből: 1., 4a., 4d., 4e., 4i., 4m., 7a., 7c.
+
+Ezek megoldása elérhető:fej5mo.pdf
+
+6. és 7. Nagyságrend-őrző ... ; Kijelentések, ... I. (2022. IX. 26 - 30-i hét 2. alkalom) (h3a2)
+Nagyságrend-őrző becslések és függvények további becslései; Kijelentések, kvantorok, logikai állítások I.
+Ez a téma terv szerint a 2022. szept. 26 - 30-i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben az 52-58. és 59-71. oldalon.
+
+Megoldandó az "Órai feladatok" részből: 
+
+6. fejezet:  1a., 1b., 1c,, 2a., 2b., 2c., 3a.
+
+7. fejezet:  3., 5., 6., 7b., 7c.
+
+Ezek megoldása elérhető: fej67mo.pdf
+
+8. és 9. Kijelentések, ... II. ; Kijelentések, ... III. (2022. X. 3 - 7-i hét 1. alkalom) (h4a1)
+Kijelentések, kvantorok, logikai állítások II. és III.
+Ez a téma terv szerint a 2022. okt. 3 - 7 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben az 72-82. és 83-90. oldalon.
+
+Megoldandó az "Órai feladatok" részből: 
+
+8. fejezet:  1a., 1b., 1c,, 3a., 3b., 3c., 3d.
+
+9. fejezet:  2a., 2c., 2e., 2i., 2j.
+
+Ezek megoldása elérhető: fej89mo.pdf
+
+10. Teljes indukció (2022. X. 3 - 7-i hét 2. alkalom) (h4a2)
+Teljes indukció
+Ez a téma terv szerint a 2022. okt. 3 - 7 -i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben az 91 - 104. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1a., 1b., 1c,, 4a., 4b., 4c., 4d.
+
+Ezek megoldása elérhető: fej10mo.pdf
+
+11. Komplex számok (2022. X. 10 - 14-i hét 1. alkalom) (h5a1)
+Komplex számok
+Ez a téma terv szerint a 2022. okt. 10 - 14 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 105 - 118. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  2a., 2b., 2c,, 2e., 2g., 2h., 3a., 12a., 12b., 12c., 12d.
+
+Ezek megoldása elérhető: fej11mo.pdf
+
+12. Mátrixok (2022. X. 10 - 14-i hét 2. alkalom) (h5a2)
+Mátrixok
+Ez a téma terv szerint a 2022. okt. 10 - 14 -i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 119 - 126. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  2., 3., 4. 
+
+Ezek megoldása elérhető: fej12mo.pdf
+
+13. Determinánsok (2022. X. 17 - 21-i hét 1. alkalom) (h6a1)
+Determinánsok
+Ez a téma terv szerint a 2022. okt. 17 - 21 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 127 - 133. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1., 2., 3. 
+
+Ezek megoldása elérhető: fej13mo.pdf
+
+14. Vektorok, vektorterek (2022. X. 17 - 21-i hét 2. alkalom) (h6a2)
+Vektorok, vektorterek
+Ez a téma terv szerint a 2022. okt. 17 - 21 -i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 134 - 141. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1., 2., 3. 
+
+Ezek megoldása elérhető: fej14mo.pdf
+
+15. Generált alterek (2022. X. 24 - 28-i hét 1. alkalom) (h7a1)
+Generált alterek
+Ez a téma terv szerint a 2022. okt. 31 - nov. 4 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 142 - 148. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  2., 3., 4., 5. 
+
+Ezek megoldása elérhető: fej15mo.pdf
+
+16. Lineáris függetlenség (2022. X. 24 - 28-i hét 2. alkalom) (h7a2)
+Lineáris függetlenség
+Ez a téma terv szerint a 2022. okt. 31 - nov. 4 -i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 149 - 155. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1., 2., 3. 
+
+Ezek megoldása elérhető: fej16mo.pdf
+
+17. Bázis, dimenzió (2022. X. 31 - XI. 4-i hét 1. alkalom) (h8a1)
+Bázis, dimenzió
+Ez a téma terv szerint a 2022. nov. 7 - 11 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 156 - 161. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1., 2., 3. 
+
+Ezek megoldása elérhető: fej17mo.pdf
+
+18. Rang, lineáris egyenletrendszerek (2022. X. 31 - XI. 4-i hét 2. alkalom) (h8a2)
+Rang, lineáris egyenletrendszerek
+Ez a téma terv szerint a 2022. nov. 7 - 11 -i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 162 - 189. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1a., 1b., 1c., 2.
+
+Ezek megoldása elérhető: fej18mo.pdf
+
+19. Kapcsolat az inverz mátrixszal (2022. XI. 7 - 11-i hét 1. alkalom) (h9a1)
+Kapcsolat az inverz mátrixszal
+Ez a téma terv szerint a 2022. nov. 14 - 18 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 190 - 196. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1., 2., 3., 4.
+
+Ezek megoldása elérhető: fej19mo.pdf
+
+20. Mátrixok sajátértékei, sajátvektorai (2022. XI. 7 - 11-i hét 2. alkalom) (h9a2)
+Mátrixok sajátértékei, sajátvektorai
+Ez a téma terv szerint a 2022. nov. 14 - 18 -i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 197 - 203. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1a., 1b., 1c., 1d.
+
+Ezek megoldása elérhető: fej20mo.pdf
+
+21. Mátrixok diagonalizálhatósága (2022. XI. 14 - 18-i hét 1. alkalom) (h10a1)
+Mátrixok diagonalizálhatósága
+Ez a téma terv szerint a 2022. nov. 21 - 25 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 204 - 211. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1a., 1b., 1c., 1d.
+
+Ezek megoldása elérhető: fej21mo.pdf
+
+22. Valós euklideszi terek I. (2022. XI. 14 - 18-i hét 2. alkalom) (h10a2)
+Valós euklideszi terek I.
+Ez a téma terv szerint a 2022. nov. 21 - 25 -i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 212 - 223. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  2., 3.
+
+Ezek megoldása elérhető: fej22mo.pdf
+
+23. Valós euklideszi terek II. (2022. XI. 21 - 25-i hét 1. alkalom) (h11a1)
+Valós euklideszi terek II.
+Ez a téma terv szerint a 2022. nov. 28 - dec. 2 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 224 - 231. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1c., 2., 3., 4.
+
+Ezek megoldása elérhető: fej23mo.pdf
+
+24. Függvények, ... (2022. XI. 21 - 25-i hét 2. alkalom) (h11a2)
+Függvények, elemi függvények, műveletek függvényekkel
+Ez a téma terv szerint a 2022. nov. 28 - dec. 2 -i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 232 - 253. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1a., 1b., 4a., 4b., 4g., 5a.
+
+Ezek megoldása elérhető: fej24mo.pdf
+
+25. Kép, őskép, ... (2022. XI. 28 - XII. 2-i hét 1. alkalom) (h12a1)
+Kép, őskép, értékkészlet, inverz függvény
+Ez a téma terv szerint a 2022. dec. 5 - 9 -i hét 1. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 254 - 264. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  3a., 3b., 3c., 8d., 8b.
+
+Ezek megoldása elérhető: fej25mo.pdf
+
+26. Korlátosság, ... (2022. XI. 28 - XII. 2-i hét 2. alkalom) (h12a2)
+Korlátosság, szélsőérték, végtelenben vett határérték
+Ez a téma terv szerint a 2022. dec.  - 9 -i hét 2. alkalmán kerül elő. Az ettől való eltérést a gyakorlatvezető jelzi.
+
+A Matalapok jegyzetben a 265 - 277. oldalon.
+
+Megoldandó az "Órai feladatok" részből:  1a., 1b., 3., 12a., 12b., 12c..
+
+Ezek megoldása elérhető: fej26mo.pdf

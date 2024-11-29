@@ -1,0 +1,33 @@
+Tárgykód:
+Kredit-érték:
+
+Előfeltétel:
+Ráépülő tárgyak:
+
+Algo Ea
+
+Kedves Hallgatók!
+Kérem, csatlakozzanak az előadás Teams csoportjához! (Ezen a felületen keresztül fogok üzeneteket küldeni az évfolyamnak.) A csatlakozás kódja: 7fz2f1i
+A félév tervezett időbeosztása a Modulok fülön, az ad1Naptar23a.pdf fájlban olvasható. A gyakorlatok ütemezésében a csoportonként különbözőképp alakuló elmaradó órák és pótórák miatt ettől kisebb-nagyobb eltérés várható, amiket majd a gyakorlatvezetővel egyeztetnek.
+
+A vizsgaidőszakban másfél órás vizsgadolgozatot fognak írni jegyszerzés céljából. Az elérhető maximális pontszám: 100. Ponthatárok:
+85p: Jeles (5). 70p: Jó (4). 55p: Közepes (3). 40p: Elégséges (2).
+Témakörök:
+1. Alapvető fogalmak és jelölések (műveletigény, tárigény, ezek mérőszámai, aszimptotika).
+2. Összehasonlító rendezések. Egyszerű (naiv) módszerek és gyors rendezések. Az oszd meg és uralkodj elv.
+3. Elemi adatszerkezetek és adattípusok (tömb, verem, sor).
+4. Láncolt listák (reprezentációk, műveletek).
+5. Fák, bináris fák (reprezentációk, műveletek, bejárások, kereső fák, rendező fák, kupacok és elsőbbségi sorok).
+6. Az összehasonlító rendezések alsókorlát-elemzése.
+7. Rendezés Lineáris időben.
+8. Hasító táblák.
+
+FAQ:
+-- Vizsgázni csak akkor lehetséges, ha a gyakorlati jegyük már be van írva a Neptunba.
+-- Egy vizsgaidőszakban legfeljebb 3 alkalommal lehet vizsgázni.
+-- A javító vizsga eredménye felülírja a korábbi vizsgaeredményt. (Javító vizsgát tenni csak elégséges, közepes, vagy jó eredményről lehet. Elégtelen eredmény esetén az ismétlés hivatalos neve utóvizsga.) Lehetőség van arra, hogy a javító vizsga közben meggondolják magukat, és a végén csak a kitöltött fejlécű feladatlapot adják be, azzal a megjegyzéssel, hogy mégsem kívánnak javítani. Ekkor a korábbi vizsgaeredmény marad érvényes.
+-- A vezetőség utasításának megfelelően az előadásokat kizárólag jelenléti módban fogom tartani. Elmulasztott előadás esetén a kimaradt tananyag a nyomtatott jegyzet (ld. Modulok) megfelelő részének áttanulmányozásával pótolható.
+-- Online konzultáció természetesen lehetséges, az előadás Teams csoportjában. A konzultáción jól megfogalmazott és körülhatárolt kérdésekre válaszolok. (A konzultáció nem pótolja az előadást.)
+
+Jó tanulást!
+Ásványi Tibor

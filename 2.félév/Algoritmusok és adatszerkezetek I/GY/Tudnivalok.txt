@@ -1,0 +1,31 @@
+Tárgykód:
+Kredit-érték:
+
+Előfeltétel:
+Ráépülő tárgyak:
+
+Algo gyak
+
+Elérhetőségek:
+
+MS Teams
+E-mail: kotroczo.roland@inf.elte.hu
+Szoba: D2.519
+Követelmények:
+
+2 ZH, amelyeknek legalább 2-esnek kell lenniük.
+1. ZH: 2023. 04. 12. – gyakorlat idejében
+2. ZH: 2023. 05. 24. – gyakorlat idejében
+A gyakorlati jegyet a 2 ZH eredményeinek összpontszáma adja. Külön is el kell érni 20-20 pontot.
+Ponthatárok (60-60 pont): 
+2: ≥ 40 pont
+3: ≥ 60 pont
+4: ≥ 80 pont
+5: ≥ 100 pont
+Gyakorlatok látogatása kötelező! 
+3 hiányzás engedélyezett.
+Minden gyakorlati héthez tartozik egy Canvas kvíz. 3  kvíz kivételével mindet legalább 70%-ra ki kell tölteni. 3-nál több 70% alatti kvíz esetén a gyakorlati jegy elégtelen.
+Javító ZH:
+
+1 ZH javítható. (Javító ZH esetén a új ZH eredménye számít)
+Javító ZH: 2023. 06. 02.  – 10:00-tól - D00-807 Adatbázis laborban

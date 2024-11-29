@@ -4,3 +4,113 @@ Kredit-érték:
 Előfeltétel:
 Ráépülő tárgyak:
 
+OEP Ea
+Ugrás a mai napra
+Tárgyfelelős:
+
+Gregorics Tibor elérhető a Teams-en, a gt@inf.elte.hu email címen, de végső esetben a (+36)(1) 372-2500 /  8493-as mellékű telefonszámon is. 
+
+Tantárgy leírás:
+
+A tantárgy céljáról, tematikájáról, ajánlott irodalmáról, óraszámáról, számonkérési rendszeréről a tantárgy honlapján http://people.inf.elte.hu/gt/oep talál információt.
+
+Előadások:
+
+Az előadások aszinkron online formában, az MS Stream-re feltöltött videókról tekinthetők meg inf-es azonosító birtokában. A videók eléréséhez itt a Modulok menüpont alatt találnak hivatkozásokat. A videókon bemutatott prezentációk, valamint a bemutatott programok kódja a tantárgy honlapjáról http://people.inf.elte.hu/gt/oep letölthetőek. Az előadásokkal kapcsolatos kérdéseiket, véleményüket a Teams General csatornájában helyezzék el.
+
+Az előadások tartalmának megismerése az azok tananyagára támaszkodó, heti rendszerességű  kvízek sikeres kitöltésével "igazolható". A gyakorlati jegy megszerzésének egyik feltétele legalább 9 kvíz határidőre történő legalább 75%-os kitöltése. Egy kvíz kitöltésével ötször is próbálkozhatnak. A kvíz kérdései között lesznek feleletválasztós (csak egy jó válasz, körök jelzik a válaszokat - radiobutton), több helyes válaszú (négyzetek jelzik a válaszokat - checkbox) és fogalom-párosítási feladatok (combobox).
+
+Gyakorlatok:
+
+A kurzushoz az előadás mellett heti 2 óra tervezős gyakorlat, 2 óra kódolós gyakorlat tartozik. Ez utóbbi géptermi labora lesz beosztva úgy, hogy a gyakorlat második fele rendszeresen megtartott konzultációnak számít.
+
+A kurzus teljesítésének feltételei:
+
+az előadásokhoz tartozó kvízek közül legalább 9 darabot legalább 75%-os eredménnyel kell teljesíteni
+3 db kis beadandó (adott terv alapján megírt programkód), amelyeket az előírt határidőre be kell adni
+1 db nagy beadandó (tervdokumentáció, programkód és tesztelés), amit az előírt határidőre (plusz legfeljebb 3 hét) be kell mutatni (határidőre bemutatva 5-öst ér, majd minden hét késéssel eggyel kevesebbet). A bemutatás előfeltétele, hogy a beadandó tervdokumentációját a tervezős gyakorlat vezető elfogadta. 
+2 db tervezős zárthelyi eredményének a legalább elégséges (2) szintet el kell érnie (az egyik zárthelyit lehet javítani)
+2 db kódolós zárthelyi közül a második legalább megfelelt eredményű kell legyen (az egyik zárthelyit lehet javítani)
+Gyakorlati jegy: a négy zárthelyi és a nagy beadandó jegyeinek átlaga
+
+Zárthelyik a PTI BSc-seknek:
+
+1. tervezős zárthelyi április 17-én az előadás idején és helyén lesz.
+
+Akik a reggeli előadásra vannak beosztva, kivéve az 1. csoportot, és nevüknek kezdőbetűje
+
+ A és K közé esik:   08:00-09:00
+
+L és Zs közés esik: 09:00-10:00
+
+Akik az esti előadásra vannak beosztva, valamint az 1. csoport, és nevüknek kezdőbetűje
+
+ A és K közé esik: 19:30-20:30
+
+L és Zs közés esik: 20:30-21:30
+
+1. kódolós zárthelyi időpontját a gyakorlatvezető határozza meg; várhatóan a 7. tanítási héten a kódolós gyakorlat idejében.
+
+2. tervezős zárthelyi időpontja: június 5.
+
+É. -1.75 Konferencia teremben azoknak, akik a reggeli előadásra vannak beosztva, kivéve az 1.csoportot, és nevüknek kezdőbetűje
+
+A és K közé esik:   10:00-11:00
+
+L és Zs közé esik: 11:00-12:00
+
+D-0.821 Bolyai teremben azoknak, akik az esti előadásra vannak beosztva, valamint az 1.csoportot, és nevüknek kezdőbetűje
+
+A és K közé esik: 16:00-17:00
+
+L és Zs közé esik: 17:00-18:00
+
+2. kódolós zárthelyi
+
+nappalisoknak: június 7. és június 8., a neptunban kell majd rá jelentkezni
+
+estiseknek: június 8. 16:00-18:00
+
+ 
+
+Zárthelyik a Felsőfokú szakképzéseseknek:
+
+1. tervezős zárthelyi április 19-én az előadás idején és helyén lesz.
+
+Akiknek nevének kezdőbetűje
+
+ A és K közé esik:   12:00-13:00
+
+L és Zs közé esik: 13:00-14:00
+
+1. kódolós zárthelyi időpontját a gyakorlatvezető határozza meg; várhatóan a 7. tanítási héten a kódolós gyakorlat idejében.
+
+2. tervezős zárthelyi: június 5. D-0.821 Bolyai terem
+
+Azoknak, akik nevének kezdőbetűje
+
+A és K közé esik: 16:00-17:00
+
+L és Zs közé esik: 17:00-18:00
+
+2. kódolós zárthelyi június 8., 16:00-18:00
+
+ 
+
+Pótzárthelyik
+
+1. kódolós pótzárthelyi
+
+június 19. 16:00-19:00 Lovarda
+
+2. kódolós pótzárthelyik
+
+június 22. 9:00-12:00 Lovarda
+
+június 22. 12:00-15:00 Lovarda
+
+1. és 2. tervezős pótzárthelyi
+
+június 22. 16:00-tól (több menetben, ha kell) Bolyai terem
+
+ 

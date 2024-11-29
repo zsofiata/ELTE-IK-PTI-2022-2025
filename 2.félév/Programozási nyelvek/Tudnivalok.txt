@@ -4,3 +4,140 @@ Kredit-érték:
 Előfeltétel:
 Ráépülő tárgyak:
 
+Java Ea (Prog nyelvek)
+Ugrás a mai napra
+Programozási nyelvek Java
+A tárgy célja programozási nyelvek általános fogalmainak, a nyelvi eszközök használatának megismertetése, elsősorban az imperatív, objektumelvű programozási paradigmán belül mozogva. Illusztrációként a Java nyelvet használjuk. Tárgyaljuk az imperatív programozás eszközeit (típusok, változók, operátorok, kifejezések, utasítások, vezérlési szerkezetek, megjegyzések), a procedurális programozás eszközeit (alprogramok/metódusok, paraméterátadás, túlterhelés, végrehajtási verem, rekurzió), majd - legnagyobb hangsúllyal - az osztályalapú objektumelvű programozás eszközeit (osztály, objektum, tagok, példányosítás és inicializáció, öröklődés, altípusos polimorfizmus, felüldefiniálás és felüldeklarálás, statikus és dinamikus kötés, absztrakt típusok, objektumok összehasonlítása és másolása). A típusokkal kapcsolatban beszélünk a tömbökről, a felsorolási típusokról, valamint a sablon és paraméterezett típusokról, a generikus programozásról. A programszerkezet témakör vizsgálata kiterjed a hatókör/láthatóság kérdésére, az absztrakciós eszközökre, a névterekre (Java csomagokra), fordítási egységekre és a beágyazott típusdefiníciókra. Nagy figyelmet fordítunk a kivételek és a kivételkezelés témakörére is. Szó esik még a programvégrehajtásról is (például virtuális gép, osztálybetöltés, dinamikus szerkesztés). A gyakorlatokon megismerünk néhány programkönyvtárat is, mint például adatszerkezetek és input-output.
+
+Fontosnak tartjuk, hogy a hallgatók megértsék a nyelv fogalmait, és hogy a problémamegoldás során tudatosan használják a tanult nyelvi elemeket. Nem csak azt várjuk el, hogy a hallgatók meg tudjanak oldani programozási feladatokat, hanem azt is, hogy a megoldás jó minőségű kód legyen, valamint, hogy kommentekkel, a kódolási konvenciók betartásával, megfelelő tördeléssel biztosítsa az olvashatóságot, karbantarthatóságot. A tárgy tehát alapvetően nem programozni tanít, hanem programozási nyelvekre, illetve a Java nyelv helyes használatára.
+
+Az előadásokon kötelező részt venni. A géptermi gyakorlatok a gyakorlatvezetővel segített önálló munkát tűzik ki célul. A félév során sem a gyakorlatokon, sem a géptermi zárthelyiken nem használunk integrált fejlesztői környezetet (pl. IntelliJ, Eclipse, Netbeans), csak programozói szövegszerkesztőket (pl. Visual Studio Code vagy Codium, geany, notepad++, gedit, (g)vim, emacs) és parancssoros fordítást/futtatást. Ennek az az értelme, hogy így a hallgatók megértik az eszközök működési elvét, tudatos eszközhasználókká válnak, és a későbbiekben az IDE-eszközök konfigurálására is képesek lesznek. A gyakorlatokon ösztönözzük a hallgatókat, hogy többféle operációs rendszeren (Windows, Linux) elsajátítsák a programkód megírásának, lefordításának és futtatásának technikáját.
+
+Tematika
+A tárgy tematikája, ajánlott irodalma itt is olvashatóLinkek egy külső oldalra. (A tárgy több kódon is felvehető, amelyek anyaga nem tér el egymástól.)
+
+Programszerkezet: csomag, típusdefiníció, tag
+Primitív és referenciatípusok, csomagoló osztályok, auto-(un)boxing
+Objektumok ábrázolása, heap, referenciák, aliasing
+Objektumok élettartama, szemétgyűjtés
+Alprogramok hívása, végrehajtási verem, aktivációs rekord
+Alprogramok paraméterei, this, static
+Érték és megosztás szerinti paraméterátadás, szemléltetés verem és heap segítségével
+Láthatósági módosítószavak, belső állapot és kiszökése, getter/setter
+Kifejezések és kiértékelésük
+Számábrázolás, operátorok
+Utasítások, strukturált programozás
+Típuskonverziók, up- és downcast, instanceof
+Blokk, hatókör, láthatóság
+Objektumok létrehozása és inicializálása
+Öröklődés mechanizmusa, többszörös öröklődés
+Típushierarchia, altípusosság, helyettesítési elv
+Öröklődés kiváltása kompozícióval
+Altípusos polimorfizmus
+Absztrakt osztályok
+interfaceek
+A felüldefiniálás és a túlterhelés fogalma, szabályai
+Statikus és dinamikus típus, szerepük, dinamikus kötés
+Final változók, metódusok és osztályok
+Generikus és paraméterezett típusok
+Altípus reláció paraméterezett típusok között
+Korlátos (bounded) parametrikus polimorfizmus
+Tömb típusok
+Kivétel fogalma, célja, szerepe
+Kivételek fellépése, terjedése és lekezelése
+Erőforráskezelés, finally és try-with-resources
+Kivételfajták osztályozása, (nem) ellenőrzött kivételek
+Kivételek definiálása és kiváltása
+A java.lang.Object műveletei, a java.lang.Class osztály szerepe
+Objektumok összehasonlítása (egyenlő, kisebb-nagyobb), másolása
+Programozási nyelv szabályai, fordítás, futtatás
+A Java Virtuális Gép működése, osztálybetöltés, bájtkód
+Követelmények
+Mind a rendszerezett elméleti tudást, mind a gyakorlati készségeket mérjük a tárgyból. Az előbbi szokott több problémát okozni, ezért is kötelező az előadásokon részt venni. Az elméletet feleletválasztós tesztekkel és rövid kifejtős kérdésekkel kérjük számon.
+
+A programtervező informatikus hallgatótól 180 munkaórányi (azaz 180 x 45 perc) befektetést várunk el (ez felel meg a 6 ECTS kreditnek, ami a tárgy elvégzéséért jár). A 180 munkaórát a következő bontásban javasolt a tanulási folyamatra fordítani.
+
+52 munkaóra a heti 2+2 tantermi tanórán, 13 héten át;
+26 munkaóra az előadás anyagának átnézése, felkészülés gyakorlatra (13 héten át heti 2);
+52 munkaóra önálló programozás (13 héten át heti 4, beleértve a házi feladatok megoldását és a konzultációt is);
+46 munkaóra a félév végén a zh-ra készülés (ismétlés, gyakorlás);
+4 munkaóra a félév végén a zh.
+Általános információk
+A tárgy teljesítésének előfeltétele
+Az előadás és a gyakorlat rendszeres látogatása legfeljebb 4-4 hiányzással. (A gyakorlatról való negyedik hiányzás esetén a gyakorlatvezető extra feladatot szabhat ki.) Az előadás látogatása alóli felmentésre a szokott szabályok vonatkoznak.
+
+Előadások és gyakorlatok formája
+Az előadásokat és a gyakorlatokat a félévben jelenléti formában tartjuk. Az órák anyagáról felvétel is készül a Microsoft Teamsben, az előadásokról és a gyakorlatokról külön-külön csatornákon.
+
+Számonkérés
+A tárgy kombinált számonkérésű, azaz egyetlen (gyakorlati) jegy zárja a tárgyat. Ha valaki több, mint négyszer hiányzik akár az előadásról, akár a gyakorlatról, a jegyet megtagadjuk.
+
+A félév során különféle módokon pontokat lehet gyűjteni, összesen 100-at. (A tárgy ún. folyamatos számonkérésű.)
+
+Az előadásokon 5 db 0,2 pont értékű kvíz lesz, 10 alkalommal. (Azaz max. 10 pont.)
+A gyakorlatokon szintén órai kvíz lesz, 1-1 pont értékben, 10 alkalommal. (Azaz max. 10 pont.)
+A félév során kiírt beadandó feladatok megoldására max. 20 pontot lehet kapni.
+A félév végén, a vizsgaidőszakban zárthelyi dolgozatot kell írni. Ennek lesz egy elméleti része (20 pont értékben kvízkérdések) és egy programozási része (ezen max. 40 pont szerezhető). A zárthelyi egy alkalommal megismételhető.
+Aki fel van mentve az előadás látogatása alól, és emiatt nem jár be, annak az előadáson megszerezhető legfeljebb 10 pont helyett a zárthelyi elméleti részén szerzett pontszámát másfélszeres súllyal vesszük figyelembe.
+Aki a felmentése ellenére úgy dönt, hogy mégis látogatja az előadásokat és kitölti a kvízt, arra a fenti kompenzáció nem vonatkozik.
+Az érdemjegy a következőképpen kerül meghatározásra.
+
+Az elégséges jegy eléréséhez 50 pontra van szükség,
+közepes 60 ponttól,
+jó 70 ponttól,
+jeles pedig 80 ponttól adható.
+A zárthelyi feltételei.
+
+Zh írása során semmilyen (pl. hozott) segédanyag vagy szoftvereszköz nem használható azon kívül, amit az oktatók biztosítanak.
+A programozási feladat megírása során használható lesz a Java API referencia.
+Saját gép használata nem megengedett.
+IDE jellegű szövegszerkesztő használata sem megengedett.
+Ezen kívül az elméleti kérdéssor megírása során üres papírt és tollat lehet használni.
+A kommunikáció minden formája tilos.
+A szabályok megszegése a jegy megtagadását vonja maga után az ELTE SZMSZLinkek egy külső oldalra 377/A. pontja alapján.
+A zárthelyi időpontjai
+A ZH jelenléti lebonyolítású, és az alábbi időpontokban lesz megtartva. Ezeket az időpontokat kérjük előre betervezni és szabaddá tenni.
+
+Elsődleges alkalom: június 5. (hétfő) 14:00-17:00 12:00-15:00; június 6. (kedd), két turnus: 14:00-17:00 és 17:00-20:00.
+Második alkalom: június 12. (hétfő) 14:00-17:00; június 20. (kedd), 14:00-17:00.
+Utolsó alkalom (kizárólag pót- és javítózh): június 30. (péntek), 14:00-17:00 17:00-20:00.
+Az "elsődleges alkalom" azt jelenti, hogy amennyiben akadályozó tényező (pl. betegség) nem merül fel, ezen az alkalmon kell megjelenni.
+
+Az első alkalmon a ZH gyakorlati csoportok szerinti beosztása a következő.
+
+június 5. (hétfő) 12:00
+Lovarda: 13, 16, 18
+Adatbázis labor: 9
+Nyelvi labor: 10
+2-202 terem: 19
+2-710 terem: 4
+2-709 terem: 23
+2-520 terem: 22
+június 6. (kedd) 14:00
+Lovarda: 3, 5, 7, 11, 14
+Adatbázis labor: 12, 20
+Nyelvi labor: 6, 25
+2-202 terem: 2
+2-710 terem: 17
+2-709 terem: 24
+2-520 terem: 8
+június 6. (kedd) 17:00
+2-202 terem: 1
+2-710 terem: 21
+2-709 terem: 15
+A második alkalmon a beosztás alapja a Neptun-kód kezdőbetűje.
+
+június 12. (hétfő) 14:00
+Lovarda: A-G kezdőbetű
+Adatbázis labor: H-M kezdőbetű
+június 20. (kedd), 14:00
+Lovarda: N-T kezdőbetű
+Adatbázis labor: U-Z kezdőbetű
+Az utolsó alkalom helyszíne egységesen a Lovarda.
+
+Irodalom
+Kozsik Tamás: A Java programozási nyelv. Oktatási segédanyag. Elérhető itt a Canvasben.
+
+Nyékyné G. Judit (szerk) és mások: Java 2 útikalauz programozóknak 5.0 I-II. ELTE TTK Hallgatói Alapítvány, 2009.
+
+Gosling, J., Joy, B., Steele, G., Bracha, G., Buckley, A.: The JavaTM Language Specification: https://docs.oracle.com/javase/specs/

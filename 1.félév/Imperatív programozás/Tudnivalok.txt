@@ -5,3 +5,57 @@ Kredit-érték:	5
 Előfeltétel:
 Ráépülő tárgyak:
 
+Követelmények és irodalom
+Sillabusz, követelmények, tematika illetve a számonkérés pontos formája és feltételei  hallgatoknak_nappali.pdf dokumentumban. Itt csak a gyakorlatok anyagát közöljük illetve a számonkérést adminisztráljuk.
+
+A tárgy kombinált számonkérésű, azaz egyetlen (gyakorlati) jegy zárja. Ha valaki több, mint háromszor hiányzik akár az előadásról, akár a gyakorlatról, a jegyet megtagadjuk.
+
+A kurzus során különböző formákban pontokat (összesen legfeljebb 100-at) lehet gyűjteni. A pontok eloszlása a következő:
+• Kis ZH-k a gyakorlatok elején: 20 pont (összesen 10x2, a félév végén egy ajándék javítóval, amin a legrosszabbul sikerült kis zh-t lehet javítani)
+• Zárthelyi: 50 pont
+• Félév végi beadandó: 30 pont
+
+Mindhárom számonkérésen legalább 10 pontot el kell érni a kurzus teljesítéséhez. A zárthelyit egy alkalommal meg lehet ismételni. A zh írása során semmilyen (pl. hozott) segédanyag vagy szoftvereszköz nem használható azon kívül, amit az oktatók biztosítanak. Nevezetesen, a programozási feladat megírása során használható lesz egy C referencia: https://en.cppreference.com/w/c.
+
+Az érdemjegy a következőképpen kerül meghatározásra:
+• 0-50 pont: elégtelen
+• 51-60 pont: elégséges
+• 61-70 pont: közepes
+• 71-85 pont: jó
+• 86-100 pont: jeles
+
+Referenciák:
+
+https://en.wikipedia.org/wiki/Escape_sequences_in_C
+További irodalom és referenciák  a C programozási nyelvhez: referencies.pdf
+
+Általános órák hétről-hétre
+1. óra
+2. óra
+3. óra
+4. óra
+5. óra
+6. óra
+7. óra
+9. óra
+10. óra
+11. óra
+12. óra
+13. óra
+gyak2.pdf
+
+Lokális tananyagok
+linux_tutorial-2.pdf
+1stcode_helloworld.pdf
+little_std_lib.pdf
+compiler.pdf
+type_data.pdf
+control_mechanism.pdf
+functions.pdf
+pointers_memory.pdf
+resources.pdf
+resources2.pdf
+
+Segédeszközök:
+https://www.putty.org/ (Linkek egy külső oldalra)
+https://winscp.net/

@@ -1,0 +1,18 @@
+10. házi: Map és filter
+Kategória:	Házi feladatok
+Elérhető:	2022. 11. 29. 15:45
+Pótolható határidő:
+Végső határidő:	2022. 12. 09. 23:59
+Maximum beküldési próbálkozások száma:	Korlátlan
+Kiírta:	Bense Viktor
+
+Leírás:
+Ugyanaz a map és filter is
+0. Modul
+Definiálj egy modult Hazi10 néven!
+
+1. map foldr-rel
+Definiáld a map' függvényt a foldr függvény segítségével, amely ugyanazt csinálja, mint az eredeti map függvény. A megoldásban nem használható listagenerátor és rekurzió, továbbá a map függvény sem!
+
+2. filter foldr-rel
+Definiáld a filter' függvényt a foldr függvény segítségével, amely ugyanazt csinálja, mint az eredeti filter függvény. A megoldásban nem használható listagenerátor és rekurzió, továbbá a filter függvény sem!

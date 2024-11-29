@@ -1,0 +1,22 @@
+1. röpzh
+A fordító milyen folyamatokon, alműveleteken keresztül készít a szöveges file-kból gépi kódot, futtatható állományt? Röviden, egy mondatban írd le mindegyik feladatkörét.
+
+8. röpzh
+elveszett
+
+9. röpzh
+Javítsd ki az alábbi kódot!
+Tetszőlegesen átírharsz bármit. A függvény kis betűből készítsen nagyot, a nem-betű karaktereket nem változtatja:
+
+char
+*
+capitalize(const char * c){
+char kezdo = *c; unsigned kicsiminusz = kezdo - 'a';
+
+double nagyplusz = kicsiminusz + 'A';return &nagyplusz;
+}
+
+A kód helyessége, szintaktikája, kinézete (tördelés, identálás, stb) is pont!
+
+10. röpzh
+Készíts teszteseteket az előző feladathoz, amik ellenőrzik a kis-nagybetű átalakítást és a nem-betű karaktereket is! (Tipp: Legalább három eset van.)

@@ -1,0 +1,74 @@
+ZH 4 B csoport
+Kategória:	Vizsgafeladatok
+Elérhető:	2022. 11. 22. 14:15
+Pótolható határidő:	2022. 11. 22. 14:55
+Végső határidő:		2022. 11. 22. 15:08
+Maximum beküldési próbálkozások száma:	Korlátlan
+Kiírta:	Bense Viktor
+
+Leírás:
+Előzetes tudnivalók
+Használható segédanyagok:
+
+Haskell könyvtárak dokumentációja: http://lambda.inf.elte.hu/haskell/doc/libraries/
+Hoogle: http://lambda.inf.elte.hu/haskell/hoogle/
+a tárgy honlapja: http://lambda.inf.elte.hu/Index.xml
+Haskell szintaxis összefoglaló: http://lambda.inf.elte.hu/CheatSheet.xml
+Más segédeszköz nem használható.
+
+Ha bármilyen kérdés, észrevétel felmerül, azt a gyakorlatvezetőnek kell jelezni, nem a diáktársaknak!
+
+A feladatsor megoldására 35 perc áll rendelkezésre (+ 5 perc feltöltésre)
+
+A feladatok tetszőleges sorrendben megoldhatóak. A pontozás szabályai a következők:
+
+Minden teszten átmenő, a feladat kikötéseinek megfelelő megoldás érhet teljes pontszámot.
+Funkcionálisan hibás (valamelyik teszteseten megbukó) megoldás nem ér pontot.
+Fordítási hibás kód esetén a teljes zh 0 pontos.
+Ha hiányos/hibás részek lennének a feltöltött megoldásban, azok kommentben szerepeljenek.
+
+Tekintve, hogy a tesztesetek, bár odafigyelés mellett íródnak, nem fedik le minden esetben a függvény teljes működését, határozottan javasolt még külön próbálgatni a megoldásokat beadás előtt!
+
+Az elméleti kérdésekre adott válaszokat a forráskódban kell elhelyezni, kommentben. Minden függvénynek meg kell adni a típusszignatúráját is. A függvények elvárt neve és típusa meg van adva. Zarthelyi4 néven kell deklarálni a modult. A .hs fájlt .zip-be tömörítve kell beadni.
+
+Elméleti kérdések (0.25 pont/típus)
+Az alábbiak közül mely típusok jelölnek magasabb rendű függvényt?
+(Szükséges jelölni valamilyen módon, hogy melyik választ értékeljem, melyiket ne, mert helytelen válaszért 0.25 pont levonás jár.)
+
+f :: (a -> b) -> [a] -> [b]
+g :: Int -> Int -> ([Int] -> [Int])
+h :: Integral a => a -> ((a -> Bool) -> a)
+i :: Num t => (t -> (t -> Int -> (t -> [t])))
+Gyakorlati feladatok
+Számítógép (1 pont)
+Definiáljuk a Computer típust! Ehhez azonban szükség van sok típusszinonímára az olvashatóság megkönnyítésért:
+
+RAM, amely a RAM méretét reprezentálja MB-ban Int-ként.
+DriveCapacity, amely a háttértár méretét tartja számon GB-ban Int-ként.
+BatteryOperatingTime, amely az akkumulátor átlagos üzemidejét adja meg órában Int-ként.
+PoweredOn, amely jelzi, hogy a számítógép be van-e kapcsolva Bool-ként.
+Továbbá egy saját típusra, amely a lehetséges processzor gyártókat reprezentálja, legyen ennek a típusnak a neve Manufacturer, két gyártó van a példában, Intel és AMD. Kérjük meg a fordítót, hogy erre a típusra példányosítsa a Show típusosztályt!
+
+Kétféle számítógépet tartunk számon:
+
+Laptop :: Manufacturer -> RAM -> DriveCapacity -> BatteryOperatingTime -> PoweredOn -> Computer
+PC :: Manufacturer -> RAM -> DriveCapacity -> PoweredOn -> Computer
+Kérjük meg a fordítót, hogy példányosítsa helyettünk a Show osztályra a saját típusunkat!
+
+Készítsünk típússzinonímát ComputerRoom néven Computer-ek listájára, amellyel a géptermeket szemléltetni tudjuk.
+
+Cserék kék CPU-kra (1 pont)
+Cseréljük ki az összes kikapcsolt számítógépben a CPU-t Intel gyártmányúra a changeToIntel :: [Computer] -> [Computer] függvényt definiálva. (Ha nem lenne kikapcsolva a gép és úgy cserélnénk, az baj volna a gép szempontjából is.)
+
+case changeToIntel [PC AMD 2048 2048 False, Laptop AMD 8192 120 10 False, Laptop Intel 8192 240 6 False] of [PC Intel 2048 2048 False, Laptop Intel 8192 120 10 False, Laptop Intel 8192 240 6 False] -> True; _ -> False
+case changeToIntel [PC AMD 2048 2048 True, Laptop AMD 8192 120 10 False, Laptop Intel 8192 240 6 True, PC Intel 4096 512 False] of [PC AMD 2048 2048 True, Laptop Intel 8192 120 10 False, Laptop Intel 8192 240 6 True, PC Intel 4096 512 False] -> True; _ -> False
+null (changeToIntel [])
+case changeToIntel [PC AMD 2048 1024 True, Laptop AMD 8192 120 5 True, Laptop Intel 8192 240 6 True, PC Intel 4096 512 True] of [PC AMD 2048 1024 True, Laptop AMD 8192 120 5 True, Laptop Intel 8192 240 6 True, PC Intel 4096 512 True] -> True; _ -> False
+Számítógép szoba összeállítása (3 pont)
+Fel szeretnénk építeni egy gaming szobát, amelyben számítógépek vannak és jó LAN-partikat lehet tolni. Egy garázsban találunk sok régi és új számítógépet, némelyik működik még, némelyik már nem. Ahhoz, hogy a szobát össze tudjuk állítani, ki kell próbálni, hogy melyik gépek működnek és melyikek nem, és a nem működőeket (listában Nothing értékűek) ki kell szórni, azokkal nem lehet mit kezdeni; a működőek közül szükség van mindre, minimum 10 darabra. Továbbá a teljesítmény is fontos, szükséges sok memória, legalább 16384 MB RAM (ha több van, akkor azok maradjanak, nem szeretnénk downgrade-elni) és azonos kék (Intel) CPU-k a gépekbe. Definiáld a buildComputerRoom :: [Maybe Computer] -> Maybe ComputerRoom függvényt, amely összeállítja nekünk ezt a gaming szobát (teljesen kikapcsolt számítógépekkel), ha ez lehetséges.
+
+case buildComputerRoom [] of Nothing -> True; _ -> False
+case buildComputerRoom [Nothing, Nothing, Nothing, Just (PC AMD 8192 512 False)] of Nothing -> True; _ -> False
+case buildComputerRoom (replicate 20 $ Just $ PC AMD 8192 512 False) of Just [PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False,PC Intel 16384 512 False] -> True; _ -> False
+case buildComputerRoom (replicate 5 Nothing ++ replicate 5 (Just $ Laptop AMD 32768 4096 12 False) ++ replicate 6 (Just $ PC Intel 2048 2048 True)) of Just [Laptop Intel 32768 4096 12 False,Laptop Intel 32768 4096 12 False,Laptop Intel 32768 4096 12 False,Laptop Intel 32768 4096 12 False,Laptop Intel 32768 4096 12 False,PC Intel 16384 2048 False,PC Intel 16384 2048 False,PC Intel 16384 2048 False,PC Intel 16384 2048 False,PC Intel 16384 2048 False,PC Intel 16384 2048 False] -> True; _ -> False
+case buildComputerRoom (replicate 5 Nothing ++ replicate 5 (Just $ Laptop AMD 32768 4096 12 False) ++ replicate 4 (Just $ PC Intel 2048 2048 True)) of Nothing -> True; _ -> False

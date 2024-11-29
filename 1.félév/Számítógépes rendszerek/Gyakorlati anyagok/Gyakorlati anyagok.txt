@@ -1,0 +1,23 @@
+Gyakorlati feladatsorok
+A gyakorlatok felölelik a következőket:
+Ismeri a számítógépek alapvető elemeit, tud akár processzort is cserélni a számítógépben!
+
+Ismeri, használja a UNIX, Windows rendszerekben használható alapvető parancsokat, lehetőségeket.
+
+Használja az operációs rendszer parancs és grafikus felületét
+
+Használja a megfelelő szövegszerkesztőt (vi, joe, pico, notepad, )
+
+Ismeri az alapvető fájlkezelés parancsokat (ls, cat, tail, head,cd, cp, mv , chmod, mc, meta-karakterek,stb.)
+
+Használja a folyamatkezelési lehetőségeket (ps, kill, fg, bg, nohup, trap, sleep,stb.)
+
+Ismeri az alapvető szűrő parancsokat ( wc, cut, grep, sed, awk,stb.), hasznos parancsokat (tar, zip, unzip, find,stb.)
+
+Használja a hálózatba kapcsolt számítógép alapvető lehetőségeit (böngésző, mail, telnet, ssh, scp, putty, winscp, ping, traceroutestb.)
+
+Legyen képes alapvető operációs rendszer (Linux, Windows) parancsfájlok készítésére(változók, paraméterek, elágazás, ciklus), használja a reguláris kifejezéseket
+
+Ismeri a Powershell alapokat, parancsok felépítését, használatát
+
+Képes alapvető PowerShell szkriptek írására (változók, paraméterek, elágazás, ciklus, függvény használata)

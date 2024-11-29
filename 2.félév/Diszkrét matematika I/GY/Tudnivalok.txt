@@ -1,0 +1,45 @@
+Tárgykód:
+Kredit-érték:
+
+Előfeltétel:
+Ráépülő tárgyak:
+
+DiMat Gyak
+Ugrás a mai napra
+Tematika:
+
+Halmazok, relációk: Halmazelméleti fogalmak bevezetése, halmazműveletek és tulajdonságaik, hatványhalmaz. Relációk bevezetése és az alapfogalmak megismerése, relációtulajdonságok, ekvivalenciareláció és részbenrendezés.
+
+Komplex számok: a komplex számok teste, konjugálás, abszolút érték, argumentum, trigonometrikus alak. Gyökvonás komplex számból. Az algebra alaptétele.
+
+Kombinatorika:  Permutációk, variációk, kombinációk, ismétléssel is. Binomiális és polinomiális tétel. Logikai szita formula.
+
+Gráfok: Irányítatlan gráfok: alapfogalmak, példák. Gráfok izomorfiája, részgráf, komplementer. Séták, vonalak, utak és körök, egyszerű tételek, összefüggőség. Fák és feszítőfák, erdők, egyszerű tételek. Vágás, vágások száma. Euler-vonal, Hamilton út. Címkézett és súlyozott gráfok, mohó algoritmusok. Irányított gráfok, síkbarajzolhatóság.
+
+Követelmények és gyakorlati jegy:
+
+Jelenlét: A félév végi jegy feltétele a gyakorlatokon való részvétel. A tárgy sikeres teljesítéséhez legfeljebb 3 alkalmat lehet mulasztani. 
+
+Kiszárthelyik: A félév során lesz 10 kisZH (canvas kvíz), melyekkel összesen 10x2=20 pontot lehet szerezni. Ebből a tárgy sikeres teljesítéséhez legalább 8 pontot kell megszerezni. A félév végén 3 választott kisZH javítható/pótolható.
+
+Nagyzárthelyik: A félév során 2 nagyzárthelyi lesz, melyeken külön-külön 40 pontot lehet elérni. A sikeres nagyzárthelyihez legalább 16 pontot kell elérni mindkét zárthelyin külön-külön. A nagyzárthelyiken számológép és egyéb segédeszköz nem használható!
+
+A zárthelyik időpontjai:
+
+1. NagyZH: április 19. - az előadás helyén és idejében
+
+2. NagyZH: később
+
+pót/javító ZH: később
+
+A nagyzárthelyik közül legfeljebb egyet lehet javítani/pótolni a félév végén.
+
+Szorgalmi: A félév során a gyakorlatvezető legfeljebb 10 pontot adhat kiadott plusz feladatok megoldására, önálló munkára vagy egyéb szorgalmi feladatra. (Természetesen ebből nincs előírt minimum ponthatár.)
+
+Gyakorlati jegy: A kiszárthelyikből 20 pontot, míg a nagyzárthelyikből 80 pontot lehet szerezni a félév során. Ha a kiszárthelyi és a nagyzárthelyik is sikeresek, akkor ezek pontszámai és a szorgalmi pontok összeadódnak és a következő ponthatárokkal kalkulálódnak  az érdemjegyek:
+
+0-39: elégtelen
+40-54: elégséges
+55-69: közepes
+70-84: jó
+85-100: jeles

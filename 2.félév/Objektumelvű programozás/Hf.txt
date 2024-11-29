@@ -1,0 +1,14 @@
+1. HF
+Határidő 2023. márc 29 23:00-ig Pont 1 Beküldés... egy fájlfeltöltés Fájltípusok zip Elérhető 2023. márc 8, 00:00 - 2023. márc 29, 23:00 22 nap
+Ez a feladat zárolva lett ekkor: 2023. márc 29, 23:00.
+Komplex számok típusa menüvel
+
+2. HF
+Határidő 2023. ápr 19 23:00-ig Pont 1 Beküldés... egy fájlfeltöltés Fájltípusok zip Elérhető 2023. márc 31, 08:00 - 2023. ápr 19, 23:00 20 nap
+Ez a feladat zárolva lett ekkor: 2023. ápr 19, 23:00.
+Keressük meg egy pozitív egész számokat tartalmazó nem üres szekvenciális inputfájlban a legkisebb páros számot, és döntsük el azt is, hogy van-e prímszám. 
+
+3. HF
+Határidő 2023. máj 10 23:00-ig Pont 1 Beküldés... egy fájlfeltöltés Fájltípusok zip Elérhető 2023. ápr 26, 14:00 - 2023. máj 10, 23:00 14 nap
+Ez a feladat zárolva lett ekkor: 2023. máj 10, 23:00.
+9. gyakorlaton szereplő "fájlrendszer" feladat

@@ -4,3 +4,43 @@ Kredit-érték:
 Előfeltétel:
 Ráépülő tárgyak:
 
+hasznos linkek:
+A weblapkészítés technikája (HTML5, CSS3) és ergonómiája (digitális tananyag)
+	http://webfejlesztes.elte.hu/tananyagok/html5css3/
+HTML validátor	https://validator.w3.org/
+CSS validátor	https://jigsaw.w3.org/css-validator/
+
+Kurzustematika
+
+Előadás tematika
+Az internet és a web fejlődése – szabványok, trendek, érdekességek, sikerek és bukások
+Alapfogalmak a web-fejlesztés témakörében (szabványok és ajánlások, http,https, url,uri, urn, HTML, XHTML,XML, DTD, validáció, reszponzív webdesign)
+A honlapkészítés ergonómiája, példák, elvek, módszerek és eszközök
+(Ergonómia fogalma, használhatóság, használhatósági faktorok, a tervezés folyamata, vizsgálati módszerek, felhasználói élmény, tartalomtervezés, oldaltervezés, tipográfia kérdések, linkek használata, multimédiás elemekkel kapcsolatos ergonómiai elvek, navigáció, site tervezés, többnyelvű oldalak megvalósítására vonatkozó elvek.)
+Bevezetés a stíluslapok használatába (css alapok, csatolási módok, mértékegységek, látszólagos osztályok és elemek, rangsor, kiértékelési sorrend, formázásmodell, tipikus oldalfelépítések és megvalósításuk , CSS1,CSS2 és CSS3 szelektorok használata)
+Mitől akadálymentes egy honlap? Speciális igényű felhasználói csoportok problémái és elvárásai.
+(Akadálymentesítés és az. egyetemes tervezés fogalma, egyenlő esélyű hozzáférés fontossága, példák, az IKT szempontból hátrányos helyzetű felhasználók (gyengénlátó-, vak-, színvak-, siket-, mozgáskorlátozott felhasználók) által tapasztalt problémák, speciális eszközök (pl. Braille kijelző, képernyőolvasó, speciális beviteli eszközök), a WCAG 2.0 (Web Akadálymentesítési Útmutató 2.0) alapelveinek, irányelveinek és teljesítési feltételeinek rövid áttekintése, akadálymentesség ellenőrzésének módszerei és eszközei (validátorok, kontraszt elemzés, struktúra elemzés, médiaelemek akadálymentességének ellenőrzése.)), a WAI-ARIA bemutatása
+
+Gyakorlati tematika
+Drótvázterv készítő alkalmazások funkciói, és használata
+HTML nyelv megismerése
+	HTML alapok (alapstruktúra, dokumentumtípus, szemantika, validálás)
+	A HTML5 és XHTML 1.0 közti különbségek
+	A HTML5 legfontosabb szövegszintű elemei, tipikus szövegformázások
+	Csoportosító elemek
+	Beágyazott elemek
+	Oldalszerkezet elemek
+	Táblázatok használata
+	Űrlapok
+	Interaktív elemek
+Bevezetés a stíluslapok használatába
+	Oldal arculatának kialakítása minta alapján
+	Szelektorok megismerése, használata
+	A legfontosabb beállítások megismerése a gyakorlatban
+Akadálymentességi ellenőrzőeszközök a gyakorlatban.
+Ismerkedés a Bootstrap keretrendszerrel
+	Oldalelrendezések
+	Rács használat alapjai
+	Rács eszközfüggő beállítása
+	Beépített osztályok használata
+	Bootstrap komponensek használata

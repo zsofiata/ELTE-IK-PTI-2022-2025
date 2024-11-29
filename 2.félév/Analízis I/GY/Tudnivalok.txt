@@ -1,0 +1,50 @@
+Tárgykód:
+Kredit-érték:
+
+Előfeltétel:
+Ráépülő tárgyak:
+
+Adatlap
+Tárgykód: IP-18AN1G, 
+
+Szak: Programtervező informatikus BSc 2018. Speciálizációk:  Modellezó (A)Linkek egy külső oldalra, Szoftvertervező (B)Linkek egy külső oldalra,  Szoftvertervező (C)
+
+Tantárgyfelelős tanszék/intézet: Numerikus Analízis Tanszék
+
+Tantárgyfelelős vezető oktató: Dr. Szili László, egyetemi tanár
+
+Tantárgy előadói:  Dr. Weisz Ferenc, egyetemi tanár,
+
+                                Dr. Szili László, egyetemi tanár,
+
+                                Dr. Toledo Rodolfo Calixto, egyetemi docens
+
+Tantárgy felvételének előfeltétele: Matematikai alapok (tárgykód IP-18MATAG)
+
+Kredit: 3
+
+A tantárgy oktatásának módja:
+
+Heti 2 óra gyakorlat, továbbá igény szerint konzultáció
+
+Kötelező, illetve ajánlott irodalom (jegyzet, tankönyv):
+
+Leindler L., Schipp F: Analízis I. (egyetemi jegyzet), Tankönyvkiadó, Budapest, 1976.
+Simon P., Bevezetés az analízisbe 1 (egyetemi jegyzet), ELTE Eötvös Kiadó, Budapest, 2016.
+Szili L., Analízis feladatokban I., ELTE Eötvös Kiadó, Budapest, 2008.
+Schipp F., Analízis I. (egyetemi jegyzet), JATE, Pécs, 1994.
+Simon P., Fejezetek az analízisből (egyetemi jegyzet), ELTE TTK, Budapest, 1997.
+W. Rudin: A matematikai analízis alapjai, Műszaki Könyvkiadó, Budapest, 1978.
+Tantárgyi követelmények:
+
+A tantárgyból gyakorlati jegyet kell szerezni. Csak ezután lehet menni vizsgázni az IP-18AN1E tárgykódú Analízis I Előadásból.
+
+Tantárgy rövid leírása
+
+A valós számok halmaza, korlátos halmazok, szuprémum, infimum.
+
+Számsorozatok, monoton sorozatok.  Konvergencia, Cauchy-kritérium. Műveletek és konvergencia. Monoton sorozatok konvergenciája. Gyökvonás. Kibővített számegyenes, tágabb értelemben vett határérték.
+
+Végtelen (numerikus) sorok, konvergencia, abszolút konvergencia. Konvergencia-kritériumok. Leibniz-sorok. Zárójelezés, átrendezés, sorok szorzása, Mertens-tétel. Valós számok p-adikus törtelőállítása. Hatványsorok, Cauchy-Hadamard-tétel. Hatványsor összegfüggvénye, elemi függvények.
+
+Függvények határértéke. Átviteli elv, határérték és műveletek. Analitikus függvények, ill. monoton függvények határértéke. Folytonosság, szakadás. A folytonosság kapcsolata a határértékkel. A folytonosságra vonatkozóátviteli elv, műveletek folytonos függvényekkel. Az összetett függvény folytonossága. Bolzano-tétel, Darboux-tulajdonság. Analitikus függvények folytonossága. Kompakt intervallumon folytonos függvények szélsőértéke, Weierstrass-tétel. Egyenletes folytonosság, Heine-tétel. Az inverz függvény folytonossága.

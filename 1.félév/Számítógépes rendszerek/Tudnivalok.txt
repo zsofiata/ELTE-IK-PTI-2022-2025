@@ -4,3 +4,66 @@ Kredit-érték:
 Előfeltétel:
 Ráépülő tárgyak:
 
+weboldal: https://szamrend.inf.elte.hu/
+
+Bevezetés
+A "Számítógépes rendszerek" az első félév kötelező tantárgya, a 2018-as Programtervező Informatikus BSC tanrend része, kreditértéke 5.
+
+A tantárgy az előző BSC tanrend “Számítógépes alapismeretek” kurzus utódjának tekinthető.
+
+A tárgy keresztfélévben is meghirdetésre kerül. Nappali képzés során 2 óra előadás, 2 óra gyakorlat mellett 1 óra konzultáció, míg esti képzésben 1 óra előadás és 1 óra gyakorlat áll a hallgatók rendelkezésére!
+
+A tárgy felvételének nincs előfeltétele!
+
+A tantárgynak három fontos célkitűzése van.
+
+•A középiskola után különböző alapokkal érkező hallgatóknak adjon egy közös számítógépes rendszer szemléletet, minimumot, ami elengedhetetlen a későbbi tanulmányok során!
+
+•Lássák, hol és milyen formában találkozhatnak számítógépes rendszerekkel.(IoT rendszerektől, lokális vezérlőktől a szuperszámítógépekig)
+
+•Ismerkedjenek meg a két leggyakrabban használt operációs rendszer környezettel, legyenek képesek a munkájukat könnyítő alapvető scriptek írására!
+
+
+Követelmény
+Tantárgyi követelmények:
+
+3 beadandó feladat van a félév során:
+
+beadandó: Dokumentáció készítés (weblap)
+beadandó: Shell script
+beadandó: Powershell írás.
+A félév során 4 dolgozat írásra kerül sor, két elméleti rövidebb, előadás időben és két gyakorlati.
+
+A gyakorlati ZH dolgozat írása gyakorlat idejében, PC laborban lesz. (az időpontokat a csoportokkal a gyakorlatvezetők egyeztetik)
+
+Első ZH(Unix-Shell script) 20 pontos.
+
+Második ZH Powershell része 20 pont,
+
+Mindkét rövidebb, fogalmi kérdés ZH 10 pontot ér. A fogalmi kérdésekből (10 kérdés) a dolgozat Canvas rendszeren keresztül tartjuk a 7. héten és utolsó héten, előadás keretében! 
+
+Az elméleti pótzh első vizsgahéten héten lesz, de csak 1 időpontban, egy kérdéssor lesz mindenkinek. Az első elméleti pótzh időpontja 2022 december 5, 10 óra. A második elméleti pótzh időpontja 2022 december 5, 12 óra.
+
+Minden ZH részen legalább 50% el kell érni.
+
+A beadandók nem kapnak pontot, a gyakorlati jegy feltétele a beadandók határidőre történő leadása. Határidőre beadott szép megoldások felfele kerekítik a jegyet. A beadandó feladatokat a tantárgy gyakorlati Canvas oldalán kell feltölteni!
+
+Késés:
+
+Max. 1 hét - 5 pont levonás (az összesített pontszámból)
+
+Max 2 hét - 10 pont levonás (az összesített pontszámból)
+
+2 hétnél több késésnél nem teljesítette a tárgyat (nem vizsgázhat bejegyzés)
+
+ 
+
+Gyak jegy:      0-29     elégtelen (1)
+
+                        30-37   elégséges(2)
+
+                        38-45   közepes(3)
+
+                        46-53   jó(4)
+
+                        54-60   jeles(5)

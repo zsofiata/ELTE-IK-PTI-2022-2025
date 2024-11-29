@@ -1,0 +1,58 @@
+1. előadás
+https://prezi.com/6ra_yv-u6otj/az-internet-es-a-web-fejlodese/?utm_campaign=share&utm_medium=copy
+
+2-3. előadás
+webf_ergonomia_v20190318_v1.pdf
+
+
+4-5-6. előadás
+wf_eloadas_stiluslapok_20200923.pdf
+https://ikelte-my.sharepoint.com/personal/abonyita_inf_elte_hu/_layouts/15/stream.aspx?UniqueId=5b8f3138%2De1dc%2D5a46%2D8602%2Dd74d4afe204d&Translate=false&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4501abf4%2D3083%2D49e9%2Db525%2D9012e4f6741c
+
+
+7-8-9. előadás
+https://ikelte-my.sharepoint.com/personal/abonyita_inf_elte_hu/_layouts/15/stream.aspx?UniqueId=dfb05d87%2D39d4%2D5b8a%2D34d4%2D74ed4dec19d5&Translate=false&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2ee1a098%2D1fc6%2D4496%2D8bfb%2D5a378a75bb49
+https://ikelte-my.sharepoint.com/personal/abonyita_inf_elte_hu/_layouts/15/stream.aspx?UniqueId=7836e248%2D0621%2D510a%2D3411%2D79d639cf1fb3&Translate=false&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed929a461%2D1d75%2D4764%2Dae80%2D4eb173aa6529
+https://ikelte-my.sharepoint.com/personal/abonyita_inf_elte_hu/_layouts/15/stream.aspx?UniqueId=81f0fe25%2Df88c%2D51b2%2D4145%2Dd3e1369a03bf&Translate=false&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E57f773c3%2Dafb3%2D4af3%2D800c%2Ddb5520573300
+akadalymentesites_bevezetovel_20181119.pdf
+Kontraszt ellenőrző eszköz Chrome böngészőhöz:https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf
+Kontraszt ellenőrző eszköz Firefox böngészőhöz:https://addons.mozilla.org/hu/firefox/addon/wcag-contrast-checker/
+
+
+GYAKORLAT 1. A Web fejlesztés alapfogalma (önállóan megtekintendő)
+Alapfogalmak áttekintése: Webfejl_alapfogalmak_2022feb_v1.pdf
+testuri.org (A HTTP kérés/válasz kipróbálásához): https://testuri.org/
+
+GYAKORLAT 1. Drótváztervkészítés a gyakorlatban
+Drótvázterv (wireframe) készítése (PDF-órai anyag): drotvazterv_2022feb_v1
+Mockflow wireframe készítő alkalmazás: https://mockflow.com/
+
+GYAKORLAT 2-3-4. Honlapkészítés a gyakorlatban (HTML5)
+1_html_alapok.zip (HTML5 gyakorló feladat - Kezdőcsomag): 1_html_alapok.zip
+HTML5 gyakorló feladat (órai prezentáció - emlékeztető): html5_gyakorlo_feladat_v2022feb_v1.pdf
+HTML5 gyakorló feladat megoldása (ZIP): html5megoldas2019.zip
+Segédanyagok (korábbi online órák felvételei)
+	Tutoriál: Kitekintés a stíluslapok használatába (tipikus szövegformázások): https://ikelte-my.sharepoint.com/personal/abonyita_inf_elte_hu/_layouts/15/stream.aspx?UniqueId=84271b4f%2D0ec3%2D5d5a%2D69d9%2D508ea536b3a8&Translate=false&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1f7903f5%2Dc7af%2D4d3b%2D85ed%2Ddfa4df8c8f85
+	Kezdőcsomag a Kitekintés a stíluslapok használatába (tipikus szövegformázások) témakörhöz: html5_stilus_kitekintes_v1.zip
+	Tutoriál: Beágyazott média és táblázatok
+	Kezdőcsomag a Beágyazott média és táblázatok témakörhöz: html5_beagyazott_tablazat_v1.zip
+	Tutoriál: HTML5 űrlap készítése (INF-es azonosítóval érhető el)
+	Kezdőcsomag a HTML5 űrlap készítése témakörhöz: html5_urlapkeszites_v100-1.zip
+	Feladat az online gyakorlatra (HTML5)
+
+GYAKORLAT 5-6. Bootstrap használata
+Ismerkedés a Bootstrap (v5 béta) keretrendszerrel - lapozható e-tananyag : létezik, de nem sikerült letölteni :(
+Bootstrap komponensek gyakorló feladat	
+Kérdések a Bootstrap témakörrel kapcsolatban
+
+GYAKORLAT 7-8. CSS3 a gyakorlatban
+Tutoriál: CSS3 a gyakorlatban (Rubik kockás feladat): https://ikelte-my.sharepoint.com/personal/abonyita_inf_elte_hu/_layouts/15/stream.aspx?UniqueId=a6dbc154%2D04eb%2D5258%2D9564%2Df62a090dd047&Translate=false&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E61cf413a%2D94f3%2D492e%2D918d%2D4b37ee0f4824
+A tutoriálban felhasznált csomag (CSS3, Rubik kocka, v2022): rubik_alapcsomag2022.zip
+rubik_megoldas_megjegyzésekkel.zip
+Kérdések a CSS3 témakörrel kapcsolatban
+
+GYAKORLAT 9.: Az XHTML 1.0 szabvány bemutatása
+A HTML és XHTML különbözőségei (Prezentáció diái): HTML_XHTML_2018szept_v1.pdf
+Alapcsomag a videó tutoriálhoz (xhtml_alap.zip)
+Tutoriál: XHTML a gyakorlatban
+XHTML 1.0 tagek és attribútumok: https://www.w3.org/2010/04/xhtml10-strict.html
